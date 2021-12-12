@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Frédéric Flouvat Home Page"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Frédéric Flouvat"
@@ -24,10 +24,10 @@ description              : "My Home Page."
 url                      : "https://flouvat.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "flouvat/flouvat.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
-# breadcrumbs            : false # true, false (default)
+teaser                   : "/assets/images/DataScience.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+logo                     : "/assets/images/LogoISEA.JPG" # Logo_Universite_de_la_Nouvelle-Caledonie.jpg" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+masthead_title           : " " # overrides the website title displayed in the masthead, use " " for no title
+breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
@@ -103,21 +103,36 @@ analytics:
 # Site Author
 author:
   name             : "Frédéric Flouvat"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an associate professor in computer science and a data scientist from the University of New Caledonia."
-  location         : "Noumea, New Caledonia"
+  avatar           : "/assets/images/Flouvat-2-400x400.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Associate professor in computer science and data scientist, Institute of Exact and Applied Sciences (ISEA Lab)"
+  location         : "University of New Caledonia, <br />
+                      BPR4 - 98851 Noumea Cedex,<br />
+                      New Caledonia"
+
   email            : "frederic.flouvat@unc.nc"
+  phone            : "(+687) 290 315"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:frederic.flouvat@unc.nc"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/flouvat"
+    - label: "ORCID"
+      icon: "fab fa-orcid"
+      url: "https://orcid.org/0000-0001-7288-0498"
+    - label: "HAL Open Science"
+      icon: "fas fa-book-open"
+      url: "https://hal.archives-ouvertes.fr/search/index/?q=%2A&authIdHal_s=frederic-flouvat&sort=producedDate_tdate+desc"
+    - label: "DBLP"
+      icon: "fas fa-database"
+      url: "https://dblp.org/pid/53/1920.html"
+    
+
 
 # Site Footer
 footer:
   links:
+    - label: "Google Scholar" 
+      icon: "fab fa-google"
+      url: "https://scholar.google.com/citations?user=sT3tk78AAAAJ&hl=fr"
+    - label: "Research Gate"
+      icon: "fab fa-researchgate"
+      url: "https://www.researchgate.net/profile/Frederic-Flouvat"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/flouvat"
