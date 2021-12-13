@@ -273,9 +273,10 @@ collections:
 defaults:
   - values :
       layout: single
-      header:
-        image: /assets/images/banner-gbaaa.jpg
+      # header:
+      #   image: /assets/images/banner-gbaaa.jpg
       author_profile: true  
+      classes: wide
   # _posts
   - scope:
       path: ""
