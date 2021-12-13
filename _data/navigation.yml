@@ -5,7 +5,11 @@ main:
   - title: "Teaching"
     url: / #/teaching
   - title: "Publications"
-    url: #/publications
+    url: /publications/
+  - title: "Others"
+    url: / #/others/
+  - title: "About me"
+    url: / # about
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
