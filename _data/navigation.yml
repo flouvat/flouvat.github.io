@@ -1,11 +1,11 @@
 # main links
 main:
-  - title: "Research"
-    url: /docs/research/
+  - title: "Projects"
+    url: /projects/
   - title: "Teaching"
-    url: /docs/teaching
+    url: / #/teaching
   - title: "Publications"
-    url: /docs/publications
+    url: #/publications
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"

@@ -24,10 +24,10 @@ description              : "My Home Page."
 url                      : "https://flouvat.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "flouvat/flouvat.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/assets/images/DataScience.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/LogoISEA.JPG" # Logo_Universite_de_la_Nouvelle-Caledonie.jpg" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : " " # overrides the website title displayed in the masthead, use " " for no title
-breadcrumbs              : true # true, false (default)
+breadcrumbs              : false # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
@@ -104,7 +104,7 @@ analytics:
 author:
   name             : "Frédéric Flouvat"
   avatar           : "/assets/images/Flouvat-2-400x400.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Associate professor in computer science and data scientist, Institute of Exact and Applied Sciences (ISEA Lab)"
+  bio              : "Associate professor in computer science and data scientist" # , Institute of Exact and Applied Sciences (ISEA Lab)"
   location         : "University of New Caledonia, <br />
                       BPR4 - 98851 Noumea Cedex,<br />
                       New Caledonia"
@@ -262,9 +262,20 @@ compress_html:
   ignore:
     envs: development
 
+# adding Collections
+collections:
+  projects:
+    output: true
+    permalink: /:collection/:path/
+    sort_by: period
 
 # Defaults
 defaults:
+  - values :
+      layout: single
+      header:
+        image: /assets/images/banner-gbaaa.jpg
+      author_profile: true  
   # _posts
   - scope:
       path: ""
@@ -276,3 +287,10 @@ defaults:
       comments: # true
       share: true
       related: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true

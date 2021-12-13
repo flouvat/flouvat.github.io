@@ -1,0 +1,44 @@
+--- 
+permalink: /projects/
+
+title: Research Projects
+collection: projects
+
+classes: wide
+---
+
+{% assign sorted = site.projects | sort: 'period' | reverse %}
+
+<section>
+  <h4>Current projects</h4>
+
+  {% for project in sorted %}
+  
+    {% if project.status == "current"  %}  
+      <figure style="width: 300px; display: inline-flex; flex-flow: row wrap;">
+        <a href="{{ project.url }}">
+          <img src="/assets/images/projects/{{ project.img }}" alt="{{ project.name }}" />
+          <figcaption> {{ project.title }} ({{ project.period }}) </figcaption>
+        </a>
+      </figure>
+    {% endif %} 
+
+  {% endfor %}
+</section>
+
+<section>
+  <h4>Past projects</h4>
+
+  {% for project in sorted %}
+  
+    {% if project.status == "past"  %}   
+      <figure style="width: 300px; display: inline-flex; flex-flow: row wrap;">
+        <a href="{{ project.url }}">
+          <img src="/assets/images/projects/{{ project.img }}" alt="{{ project.name }}" />
+          <figcaption> {{ project.title }} ({{ project.period }}) </figcaption>
+        </a>
+      </figure>
+    {% endif %} 
+
+  {% endfor %}
+</section>

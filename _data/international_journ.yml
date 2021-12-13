@@ -1,0 +1,39 @@
+- authors: "Sandro Bimonte, Olivier Billaud, Benoit Fontaine, Thomy Martin, Frédéric Flouvat, Ali Hassan, Nora Rouillier and Lucile Sautot."
+  title: "Collect and analysis of agro-biodiversity data in a participative context: A Business Intelligence Framework."
+  info: In Ecological Informatics, Vol. 61, p. 2021.
+
+- authors: "Frédéric Flouvat, Nazha Selmaoui-Folcher, Jérémy Sanhes, Chengcheng Mu, Claude Pasquier and Jean-François Boulicaut."
+  title: "Mining evolutions of complex spatial objects using a single attributed Directed Acyclic Graph."
+  info: In Knowledge and Information Systems, Vol. 62(10), p.3931-3971, 2020.
+
+- authors: "Claude Pasquier, Frédéric Flouvat, Jérémy Sanhes, Nazha Selmaoui-Folcher."
+  title: "Attributed Graph Mining in the presence of automorphism."
+  info: In Knowledge and Information Systems, Vol. 50(2), p.569-584, 2017.
+
+- authors: "Claude Pasquier, Jérémy Sanhes, Frédéric Flouvat, Nazha Selmaoui-Folcher."
+  title: "Frequent Pattern Mining in Attributed Trees: Algorithms and applications."
+  info: In Knowledge and Information Systems, Vol. 46(3), p.491-514, 2016.
+  
+- authors: "Hugo Alatrista Salas, Sandra Bringay, Frédéric Flouvat, Nazha Selmaoui-Folcher, Maguelonne Teisseire."
+  title: "Spatio-sequential patterns mining: beyond the boundaries."
+  info: In Intelligent Data Analysis, Vol. 20(2), p.293-316, 2016.
+  
+- authors: "Frédéric Flouvat, Jean-François N'guyen Van Soc, Elise Desmier and Nazha Selmaoui-Folcher."
+  title: "Domain-driven co-location mining: Extraction, visualization and integration in a GIS."
+  info: In GeoInformatica, Vol. 19, p.147-183, january 2015.
+
+- authors: Hugo Alatrista Salas, Frédéric Flouvat, Sandra Bringay, Nazha Selmaoui-Folcher and Maguelonne Teisseire.
+  title: A spatial-based KDD process to better manage the river water quality. 
+  info: In the International Journal of Geomatics and Spatial Analysis 23(3-4), p.469-494, 2013.
+
+- authors: Nazha Selmaoui-Folcher, Frédéric Flouvat, Dominique Gay and Isabelle Rouet. 
+  title: Spatial pattern mining for soil erosion characterization. 
+  info: In the International Journal of Agricultural and Environmental Information Systems (IJAEIS), Special Issue on Environmental and agricultural data processing for water and territory management, IGI Global, Vol. 2, N 2, Jully 2011.
+  
+- authors: Frédéric Flouvat, Fabien De Marchi and Jean-Marc Petit. 
+  title: A new classification of datasets for frequent itemsets. 
+  info: In the Journal of Intelligent Information Systems (JIIS), Vol. 34, p.1-19, February 2010.
+  
+- authors: Hélène Jaudoin, Frédéric Flouvat, Jean-Marc Petit and Farouk Toumani. 
+  title: Towards a scalable query rewriting algorithm in presence of value constraints. 
+  info: In the Journal on Data Semantics (JoDS XII), Vol. 12, p.37-65, 2009.

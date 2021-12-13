@@ -1,0 +1,82 @@
+- title: "Programmation Avancée (Advanced Programming)"
+  keywords: "Complexity, Iterative/Recursive, Landau Notation, Sort, C programming language."
+  hours: "12h Lectures / 12h Tutorials / 24h Labs"
+  institution: "University of New Caledonia"
+  diploma: "Licence Informatique (bachelor of engineering in computer science)"
+  file: "coursProgAvancee.pdf"
+  status: current
+  
+- title: "Bases de données avancées (Advanced Databases)"
+  keywords: "SQL, PostgreSQL, Pl-pgSQL, Transactions, Trigger, Normalization."
+  hours: "14h Lectures / 16h Turorials / 10h Labs"
+  institution: "University of New Caledonia"
+  diploma: "Licence Informatique (bachelor of engineering in computer science)"
+  file: "basesDonneesAvancees.ppt"
+  status: current
+  
+- title: "Développement Web (Web technologies)"
+  keywords: "HTML/CSS, JavaScript, PHP,  MVC, Agile Methodologies, GitHub flow, Security."
+  hours: "16h Lectures / 32h Labs"
+  institution: "University of New Caledonia"
+  diploma: "Licence Informatique (bachelor of engineering in computer science)"
+  file: "TechnoWeb-HTML5-CSS3-PHP-Javascript-Securite.pdf"
+  status: current
+
+- title: "Introduction aux Bases de données (Introduction to databases)"
+  keywords: "SQL, Access."
+  hours: "10h Lectures / 10h Tutorials / 10h Labs"
+  institution: "University of New Caledonia"
+  diploma: "Licence Informatique (bachelor of engineering in computer science)"
+  file: "AccessSQL.ppt"
+  status: past
+
+- title: "Programmation Orientée Objets en Java (Object Oriented Programming in Java)"
+  keywords: "Java, Class diagram, Objet/Class, Inheritance/Polymorphism/Associations, Packages, Genericity, Exceptions, Streams (and optionally Swing)."
+  hours: "12h Lectures / 16h Tutorials / 24h Labs"
+  institution: "University of New Caledonia"
+  diploma: "Licence Informatique (bachelor of engineering in computer science)"
+  file: "POO-Java.ppt"
+  status: current  
+  
+- title: "Système d'exploitation (Introduction to operating systems)"
+  keywords: "Linux, Script Bash."
+  hours: "12h Labs"
+  institution: "University of New Caledonia"
+  diploma: "Licence SPI Informatique (bachelor of engineering in computer science)"
+  file: ""
+  status: past  
+  
+- title: "Fondements des bases de données (Databases Fundations)"
+  keywords: "SQL, Relational Algebra, Functionnal Dependancies, Normalization."
+  institution: "University of Lyon,  University of Clermont-Ferrand"
+  diploma: "Licence Informatique (bachelor of engineering in computer science)"
+  file: ""
+  status: past
+  
+- title: "Entrepôts de données et Fouille de données (Datawarehouses & Data Mining)"
+  keywords: "Datawarehouses, Clustering, Association Rules, Bucket algorithm."
+  institution: "University of Lyon"
+  diploma: "Master MIAGE"
+  file: ""
+  status: past
+
+- title: "Bases de données avancées (Advanced Databases)"
+  keywords: "XML, XQuery, XPath, First-Order Logic."
+  institution: "University of Lyon"
+  diploma: "Master MIAGE"
+  file: ""
+  status: past      
+  
+- title: "Administration des bases de données (Databases Administration)"
+  keywords: "Oracle, User Privileges and Roles, Backup, Audit."
+  institution: "University of Lyon, INSA Lyon, University of Clermont-Ferrand"
+  diploma: "Master"
+  file: ""
+  status: past  
+  
+- title: "Programmation en C++ (C++ Programming)"
+  keywords: "C++, template, functor, STL."
+  institution: "University of Clermont-Ferrand"
+  diploma: "Licences MAS et Informatique (bachelors of engineering in statistics and in computer science)"
+  file: ""
+  status: past         

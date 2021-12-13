@@ -1,0 +1,101 @@
+
+- authors: Guillaume Cleuziou, Frédéric Flouvat, Matthieu Exbrayat, Julien Robert and Romuald Thion.
+  title: "Apprentissage de représentations pour l'enseignement de la programmation : une approche centrée enseignant."
+  info: "Dans les Actes de la 10e Conférence sur les Environnements Informatiques pour l'Apprentissage Humain (EIAH), Juin, Fribourg / Virtual, Suisse. pp.58-69, 2021."
+
+- authors: Guillaume Cleuziou and Frédéric Flouvat. 
+  title: "Apprentissage d'embeddings de codes pour l'enseignement de la programmation : une approche fondée sur l'analyse des traces d'exécution." 
+  info: "Dans les Actes de la Conférence Francophone sur l'Extraction et la Gestion des Connaissances (EGC'21), 25 janvier - 29 janvier, Montpellier, 2021."
+
+- authors: Jannaï Tokotoko, Frédéric Flouvat, Claire Goiran, Laetitia Hedouin, Antoine Collin and Nazha Selmaoui-Folcher. 
+  title: Prétraitement de données spatialement imprécises pour une classification supervisée basée sur les images satellitaires. 
+  info: "Dans les Actes de la Conférence Francophone sur l'Extraction et la Gestion des Connaissances (EGC'18), 22 janvier - 26 janvier, Paris, 2018."
+  stat: 20 papers accepted on 76 (26%).
+
+- authors: Zhi Cheng, Frédéric Flouvat and Nazha Selmaoui-Folcher. 
+  title: Extraction des évolutions récurrentes dans un unique graphe dynamique attribué. 
+  info: "Dans les Actes de la Conférence Francophone sur l'Extraction et la Gestion des Connaissances (EGC'17), 23 janvier - 27 janvier, Grenoble, 2017."
+  stat: 22 papers accepted on 86 (26%).
+  
+- authors: Nazha Selmaoui-Folcher, Frédéric Flouvat, Chengcheng Mu, Jérémy Sanhes and Jean-Francois Boulicaut.
+  title: "Extraction complète efficace de chemins pondérés dans un a-DAG."
+  info: "Dans les Actes de la Conférence Francophone sur l'Extraction et la Gestion des Connaissances (EGC'15), vol. E-28. Revue des Nouvelles Technologies de l'Information, p. 179-190, 2015."
+  stat: 22 long papers accepted on 83 submissions (26%).
+
+- authors: Frédéric Flouvat, Jérémy Sanhes, Claude Pasquier, Nazha Selmaoui-Folcher and Jean-Francois Boulicaut.
+  title: "Les modèles experts : une source d'informations pour l'extraction de motifs."
+  info: "Dans les Actes de la Conférence Francophone sur la Reconnaissance de Formes et l'Intelligence Artificielle (RFIA'14), 30 juin - 4 juillet, Rouen, France, 2014."
+
+- authors: Pierre-Nicolas Mougel, Frédéric Flouvat and Nazha Selmaoui-Folcher.
+  title: "Approche par motifs pour l'analyse de données multi-résolution."
+  info: "Dans les Actes de la Conférence Francophone sur l'Extraction et la Gestion des Connaissances (EGC'14), vol. E-26. Revue des Nouvelles Technologies de l'Information, p. 401-406, 2014."
+  stat: 28 long papers accepted on 106 submissions (26%).
+
+- authors: Claude Pasquier, Frédéric Flouvat, Jérémy Sanhes and Nazha Selmaoui-Folcher.
+  title: Extraction de motifs dans des graphes orientés attribués en présence d'automorphisme.
+  info: "Dans les Actes de la Conférence Francophone sur l'Extraction et la Gestion des Connaissances (EGC'14), vol. E-26. Revue des Nouvelles Technologie de l'Information, p. 371-382, 2014."
+  stat: 28 long papers accepted on 106 submissions (26%).
+
+- authors: Jérémy Sanhes, Frédéric Flouvat, Nazha Selmaoui-Folcher and Jean-François Boulicaut. 
+  title: Extraction de motifs condensés dans un seul graphe orienté acyclique attribué. 
+  info: "Dans Actes de la Conférence Francophone sur l'Extraction et la Gestion des Connaissances (EGC'13), 29 janvier - 01 février 2013, Toulouse, France, Hermann-Editions, RNTI E-24 (Revue de Nouvelles Technologies de l'Information), pp. 205-216, 2013." 
+  stat: 26 long papers accepted on 99 submissions (26%).
+  
+- authors: Claude Pasquier, Jérémy Sanhes, Frédéric Flouvat and Nazha Selmaoui-Folcher. 
+  title: Extraction de motifs fréquents dans des arbres attribués. 
+  info: "Dans Actes de la Conférence Francophone sur l'Extraction et la Gestion des Connaissances (EGC'13), 29 janvier - 01 février 2013, Toulouse, France, Hermann-Editions, RNTI E-24 (Revue de Nouvelles Technologies de l'Information), pp. 193-204, 2013." 
+  stat: Best paper prize. 26 long papers accepted on 99 submissions (26%).
+
+- authors: Hugo Alatrista-Salas, Sandra Bringay, Frédéric Flouvat, Nazha Selmaoui-Folcher and Maguelonne Teisseire. 
+  title: Vers une approche efficace d'extraction de motifs spatio-séquentiels. 
+  info: Dans Actes de la Conférence Francophone sur l'Extraction et la Gestion des Connaissances (EGC'12), Bordeaux, France, January 2012.
+  stat: 30 long papers accepted on 118 submissions (25%).
+  
+- authors: Jeremy Sanhes, Frédéric Flouvat, Nazha Selmaoui-Folcher and Maguelonne Teisseire. 
+  title: Extraction d'arbres spatio-temporels d'itemsets pour le suivi environmental. 
+  info: Dans Actes de la Conférence Francophone sur l'Extraction et la Gestion des Connaissances (EGC'12), Poster session, Bordeaux, France, January 2012.
+  
+- authors: Loic Mabit, Nazha Selmaoui-Folcher and Frédéric Flouvat. 
+  title: Modélisation de la dynamique de phénomènes spatio-temporels par des séquences de motifs. 
+  info: Dans Actes de la Conférence Francophone sur l'Extraction et la Gestion des Connaissances (EGC'11), Brest, France, January 2011.
+  
+- authors: Frédéric Flouvat, Nazha Selmaoui-Folcher and Dominique Gay. 
+  title: Une extraction et une visualisation des co-localisations adaptées aux experts. 
+  info: Dans Actes de la Conférence Francophone sur l'Extraction et la Gestion des Connaissances (EGC'10), Hammamet, Tunisia, January 2010. 
+  stat: 32 long papers accepted on 136 submissions (23%).
+  
+- authors: Nazha Selmaoui-Folcher, Frédéric Flouvat, Chloé Grison, Isabelle Rouet and Dominique Gay. 
+  title: "Découverte de co-localisations dans un SIG: extension et application à l'étude de l'érosion en Nouvelle-Calédonie."
+  info: Dans Actes de la Conférence Francophone Spatial Analysis and GEOmatics (SAGEO'09), Paris, France, November 2009.
+  
+- authors: Frédéric Flouvat, Sébastien Gassmann, Alain Ribière and Jean-Marc Petit. 
+  title: "DesEsper: un logiciel de pré-traitement de flux appliqué à la surveillance des centrales hydrauliques."
+  info: Dans Actes de la Conférence Francophone sur l'Extraction et la Gestion des Connaissances (EGC'09), Strasbourg, France, January 2009. (demonstration)
+  
+- authors: Pascale Bergeret, Frédéric Flouvat and Jean-Marc Petit. 
+  title: Vers la génération de jeux de données synthétiques réalistes pour les motifs fréquents. 
+  info: Dans Actes de la Conférence Francophone Bases de Données Avancées (BDA 2007), p. 1-20, Marseille, France, October 2007.   
+  stat: 27 long papers accepted on 72 submissions (37%).
+  
+- authors: Frédéric Flouvat, Fabien De Marchi and Jean-Marc Petit. 
+  title: Towards easy prototyping of pattern mining problems.
+  info: Colloque International sur l'Optimisation et les Systèmes d'Information COSI'07, p. 611-623, Oran, Algeria, June 2007.
+
+- authors: Frédéric Flouvat, Fabien De Marchi and Jean-Marc Petit. 
+  title: Vers le prototypage rapide de programmes de fouille de données. 
+  info: Dans Actes de la Conférence Francophone Bases de Données Avancées (BDA 2006), p. 1-18, Lille, France, October 2006.  
+  stat: 23 long papers accepted on 79 submissions (29%).
+  
+- authors: Hélène Jaudoin, Frédéric Flouvat. 
+  title: Techniques de fouille de données pour la réécriture de requètes en présence de contraintes de valeurs. 
+  info: Dans Actes de la Conférence Francophone sur l'Extraction et la Gestion des Connaissances (EGC'06), p. 77-88, Lille, France, January 2006.   
+  stat: 42 long papers accepted on 152 submissions (28%).
+  
+- authors: Frédéric Flouvat. 
+  title: Etude expérimentale de la distribution des bordures de motifs fréquents. 
+  info: Dans Actes de la Conférence Francophone INFORSID 2005, p. 369-384, Grenoble, France, May 2005.
+  stat: INFORSID 2005 Young Researcher Best Paper Prize. 37 long papers accepted on 106 submissions (35%).
+  
+- authors: Frédéric Flouvat, Fabien De Marchi and Jean-Marc Petit. 
+  title: Une stratégie adaptative pour la découverte des motifs fréquents maximaux. 
+  info: Colloque International sur l'Optimisation et les Systèmes d'Information COSI'04, p. 1-12, Tizi Ouzou, Algeria, June 2004.

@@ -1,0 +1,26 @@
+<section>
+
+    <ul>
+        <li>
+            <strong>Period: </strong> {{ page.period }}
+        </li>
+        <li>
+            <strong>Funded by: </strong> {{ page.funded }}
+        </li>
+        <li>
+            <strong>Partners: </strong> {{ page.partners }}
+        </li>
+        {% if page.role  %}
+			<li>
+				<strong>My role :</strong> {{ page.role }}
+            </li>
+		{% endif %}
+    </ul>
+
+    <figure>
+        <img style="width: 300px; display: block; margin-left: auto; margin-right: auto;" src="/assets/images/projects/{{ page.img }}" alt="{{ page.title }}" />
+    </figure>
+    
+    <p align="justify"> {{ page.description }} </p>
+
+</section>

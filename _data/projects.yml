@@ -1,0 +1,124 @@
+- name: "SOcio‐SPAtial Dynamics of Informal Settlements in Fiji, Vanuatu and Solomon Islands"
+  date: "2018-"
+  funded: "French Ministry of foreign affairs, Caledonian government and Pacific Islands Universities Research Network (PIURN)."
+  partners: "Ecosophy company, University of New Caledonia, IRD, University of South Pacific, National University of Vanuatu, Solomon Islands National University, and Massey university."
+  img: "sospadis.jpg"
+  description: "Faced with growing urbanization, informal settlements are an integral part of the urban landscape in the Pacific island states.
+  Improving living conditions of populations has become a major issue. For this, stakeholders need indicators and tools to better understand and plan evolutions of these communities w.r.t. their environment.
+  The objective of this multidisciplinary project is to analyze and modelize the  dynamics of informal settlements based on GIS data, satellite images, drone data and household surveys.
+  Agent-based modeling will be used to simulate informal setllements dynamics. Then,  data mining techniques will be used to analyzed simulation results, and improve the model.     
+  To construct its generic model, this projet more particularly study six informal settlements in Vanuatu, Solomon Islands and Fiji."  
+  role: "Coordinator of two PIURN projects" 
+  status: current
+
+- name: "Family farming, lifestyle and health in the Pacific (FALAH)"
+  date: "2019-"
+  funded: "Horizon 2020, program Research and Innovation Staff Exchange (RISE)."
+  partners: "University of New Caledonia (coordinator), IRD, Agronomic Institute of New Caledonia (IAC), University of Toulouse, University of Paris, University of Le Havre, Ludwig-Maximilians Universitat Munich, University of South Pacific, South Pacific Community, Solomon Islands National University, Vanuatu Ministry of Education and Training, Vanuatu Agricultural Research and Technical Centre, University of Sydney, University of New South Wales, University Of Wollongong and Western Sydney University."
+  img: "falah.jpg"
+  description: "This research network focuses on family farming and food in the Pacific Islands. 
+  It involves fifteen multidisciplinary teams at local, regional and international levels (Europe, Vanuatu, Fiji, Salomon, New-Caledonia and Australia). 
+  The main objective is to build a network of research teams operating in the Pacific Islands that have a common interest in food security and its direct or indirect relationship with the environment, lifestyle and health.
+  The final goal is to promote and revitalize family agriculture to improve the health of Pacific populations and ensure food security in the context of rapid social and economic transformations and climate change." 
+  status: current
+
+- name: "Impacts of the mine on evolution of territories"
+  date: "2019-"
+  funded: "National Centre for Technological Research (CNRT) - Nickel and its Environment."
+  partners: "University of New Caledonia (coordinator), IRD, University of Lyon 2 and WIGS company."
+  img: "impactMine.jpg"
+  description: "The objective of this project is to analyze the impact over time of mining activity on the economy, living conditions, taxation and employment, while integrating the evolution of landscapes (using satellite images)." 
+  status: current
+
+- name: "Multivariate Time Series Analysis for a better management of renewable energy production"
+  date: "2018-2019"
+  funded: "French Ministry of Higher Education and Research."
+  partners: "University of New Caledonia, University of Reunion Island and Alizés Energie company (Engie Group)."
+  img: "smartgrid.jpg"
+  description: "This project focuses on the developement of Data Science methods to improve management of renewable energy production. 
+  Specifically, we are interested in forecasting turbine failures for wind farms and forecasting solar flux for photovoltaic farms. 
+  Even if the problems are very different, data generated share much in common, which suggests the introduction of generic approaches that can benefit both. 
+  In both applications, a very large amount of data is recorded daily to monitor production, equipment and weather conditions. 
+  These data are in the form of multivariate time series (numerical and symbolic). The objective of this work is to develop new methods / algorithms to make prediction from such data.  " 
+  role: "Coordinator" 
+  status: past
+
+- name: "Big data and Data Science for aquaculture monitoring"
+  date: "2017-2018"
+  funded: "Caledonian government."
+  partners: "University of New Caledonia, IFREMER (French Research Institute for Exploitation of the Sea), GFA (Aquaculture Group of New Caledonia) and SOPAC (Caledonian Aquaculture Farmers’ Society)."
+  img: "crevette.jpg"
+  description: "The objective of this work is to analyze complex data generated for the monitoring of aquaculture farms (e.g. breeding data, product quality data and meteorological data). 
+  The cross-analysis of these data aims to highlight typologies of breeding success, with high-quality products, in a disease context." 
+  status: past
+  
+- name: "Monitoring of caledonian coral reefs using data mining"
+  date: "2015-2016"
+  funded: "DigitalGlobe Foundation - UNC."
+  partners: "University of New Caledonia, Insular Research Center and Environment Observatory (CRIOBE, French Polynesia), Laboratory of Coastal Geomorphology and Environment (PRODIG-EPHE) and Koniambo Nickel SAS (KNS)."
+  img: "lagon.jpg"
+  description: "The main objective of this project is  to monitor two coral reefs in New Caledonia. 
+   Two time-series of remote sensing data (Quickbird 2 and WorldView 2)  are used to monitor these areas during the last ten years (6 and 8 dates from 2004 to 2016). These time series composed of very high resolution satellite images are analyzed together with in-situ data (field inventory) using supervised classification methods and spatio-temporal pattern mining."
+  role: "Coordinator" 
+  status: past
+
+- name: "Mining fruit bat trajetories"
+  date: "2015"
+  partners: "University of New Caledonia and Agronomic Institute of New Caledonia (IAC)."
+  img: "lyles-flying-fox.jpg"
+  description: "This project is a preliminary poject on bats trajectory data. It aims at analyzing fruit bat flight behavior. Several Bats are tracked via the ARGOS system, and this data is analyzed using data mining methods (movement pattern mining and sequential pattern mining)."
+  status: past  
+
+- name: "Amadouer"
+  title: "Urban and environmental large data sets analysis"
+  date: "2014-2015"
+  funded: "CNRS MASTODONS."
+  partners: "LIRIS-INSA Lyon (coordinator); Center for Energy and Thermal Sciences of Lyon (CETHIL); Environment, Cities and Society laboratory (EVS); Laboratory of Civil and Environmental Engineering (LGCIE), Laboratory of Natural and Anthropised Hydrosystems (LEHNA); University of New Caledonia."
+  img: "amadouer.jpg"
+  description: "This project aims at defining generic approaches of modelization, data exploration and data mining, for heterogeneous scientific data."
+  status: past
+
+- name: "Hydrological Data Warehousing"
+  date: "2014"
+  funded: "Koniambo Nickel SAS (KNS)."
+  partners: "University of New Caledonia (coordinator), Koniambo Nickel SAS."
+  img: "solap.jpg"
+  description: "This project is a preliminary project on environmental data warehousing and knowledge discovery with the mining company KNS (a joint venture of Xstrata Nickel and the Société Minière du Sud Pacifique). Lots of environmental data are collected by this mining company. However,  exploitation of this spatio-temporal data is difficult due to its complexity and due to its current organization. In order to have a sustainable development, it is important for the company to have effective decision support systems to better understand, monitor and manage the environment. In this context, this project aims at investigating spatial data warehouses and <a href=\"http://spatialolap.scg.ulaval.ca/datastructure.asp\">SOLAP</a> (Spatial On-Line Analytical Processing) solutions on an hydrological database."
+  status: past
+
+
+- name: "FO.S.T.ER."
+  title: "Spatio-temporal data mining: application to the understanding and monitoring of soil erosion."
+  web: "http://foster.univ-nc.nc/"
+  date: "2011-2014"
+  funded: "French National Research Agency ANR."
+  partners: "University of New Caledonia (coordinator), LIRIS, LSIIT, LISTIC, BLUECHAM."
+  img: foster4.jpg
+  description: "The FOSTER project aims at providing to geologists a semi-automatic and complete process for monitoring soil erosion. This process will be based on multi-temporal very high resolution satellite images coupled with digital elevation model (DEM), sensor data and/or expert knowledge. The project will focus more precisely on two important aspects of this process: segmentation of satellite images based on collaborative methods, and construction of descriptive (patterns, clustering,...) and predictive (decision trees,...) spatio-temporal models. This project focuses his study on New Caledonia, a biodiversity hotspot and a first rank environmental observatory. Protecting and managing such a fragile environment due to major mining projects and an increasing population, are major challenges. To valid the genericity of the proposed process, the project will also study another geographical area in the southern part of French Alps."
+  role: "Task coordinator (Data preparation and Expert validation)"
+  status: past
+  
+- name: "Functioning of small mining catchment areas"
+  funded: "National Centre for Technological Research (CNRT) - Nickel and its Environment."
+  date: "2010-2014"
+  partners: "University of New Caledonia (coordinator), DIMENC, DAVAR, CEMAGREF, A2EP, Météo France, Université de la Réunion, IRD."
+  img: mountain_societe.jpg
+  description: "The project aims at gaining a better understanding of functioning processes of small catchment areas in New Caledonia. These areas are affected by important mining projects, and have a direct impact on the caledonian lagoon which is one of the largest coral-reef ecosystems on Earth (classified by UNESCO since 2008 as a World Heritage Site). In particular, this project studies quantification of upstream flows and their impact on downstream transport of solid matter in different geomorphoclimatic contexts."
+  status: past
+  
+- name: "Prevention and prediction of dengue epidemics in New Caledonia"
+  funded: "French minister of overseas."
+  date: "2010-2011"
+  partners: "IRD (coordinator), University of New Caledonia, DASSNC, IPNC, Meteo France."
+  img: "WorldDistDengue.jpg"
+  description: "These last years an increasing amount of data has been collected to study spread of infectious diseases. Extracting knowledge to better understand the dynamic of these phenomena is a challenging task. For example, dengue epidemics are characterized by a set of interacting factors, causing the spread of the disease in space and time. It is important to know, how and which factors have an effect on disease spread. Even if the global influence of environmental factors (water points, nearby mangrove, rainfall, humidity etc.) is known, the impact of all the factors together with their interactions stills an open problem. In this context, the project aims at discovering and modeling the dynamic of dengue epidemics. This study focuses on New Caledonia and its capital city Nouméa."
+  status: past
+  
+- name: "Easy prototyping of data mining algorithms"
+  web: "http://liris.cnrs.fr/izi/"
+  date: "2006-2008"
+  partners: "University of New Caledonia and University of Lyon."
+  img: "izi.jpg"
+  description: "Although guided by real problems, data mining techniques are still marginally used and their implementation can only be carried out by specialists programmers familiar with low-level code. The technology transfer is thus slowed down by some limitations, among which the time necessary to the development of operational programs. We consider here an important and broad class of data mining problems: the discovery of interesting patterns in large databases. From a theoretical point of view, these problems must be representable as sets. In this setting, we propose a library facilitating the resolution of such problems, based on the use of generic and scalable algorithms. The characteristics and optimizations of the algorithms are transparent for the programmer, and only the development of the specific properties of its problem is left to him/her. The library, called iZi and developed in C++, is available under GNU General Public License. For more details, see the technical documentation."
+  status: past
+ 

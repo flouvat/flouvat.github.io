@@ -1,0 +1,97 @@
+- authors: Guillaume Cleuziou and Frédéric Flouvat. 
+  title: Learning student program embeddings using abstract execution traces. 
+  info: In Proceedings of the 14th International Conference on Educational Data Mining (EDM 2021), International Educational Data Mining Society, Paris, 2021.
+
+- authors: Jannaï Tokotoko, Frédéric Flouvat, Claire Goiran, Laetitia Hédouin, Antoine Collin, and Nazha Selmaoui-Folcher. 
+  title: Supervised classification of satellite images with spatially inaccurate training field data. 
+  info: In Proceedings of the IEEE International Conference on Data Mining Workshops (ICDM Workshops), Spatial and Spatiotemporal Data Mining (SSTDM), Singapore, 2018.
+
+- authors: Zhi Cheng, Frédéric Flouvat and Nazha Selmaoui-Folcher. 
+  title: Mining reccurrent patterns in a dynamic attributed graph. 
+  info: In Proceedings of the 21st Pacific-Asia Conference on Knowledge Discovery and Data Mining (PaKDD'17), Jeju, South Korea, 2017.
+  stat: 129 papers accepted on 458 (28%).
+
+- authors: Maxime Collin, Frédéric Flouvat and Nazha Selmaoui-Folcher. 
+  title: PaTSI - Pattern mining of time series of satellite images in KNIME. 
+  info: In Proceedings of the 16th IEEE International Conference on Data Mining (ICDM'16), Demos Session, Barcelona, Spain, December 13-15, 2016. 
+  
+- authors: Frédéric Flouvat, Jérémy Sanhes, Claude Pasquier, Nazha Selmaoui-Folcher and Jean-François Boulicaut. 
+  title: Improving pattern discovery relevancy by deriving constraints from expert models. 
+  info: In Proceedings of the 21st European Conference on Artificial Intelligence (ECAI'14), Prague, Czech Republic, August 18-22, 2014.
+  stat: 158 papers accepted on 562 (28%).
+  
+- authors: Jérémy Sanhes, Frédéric Flouvat, Claude Pasquier, Nazha Selmaoui-Folcher and Jean-François Boulicaut. 
+  title: Weighted paths as a condensed pattern in a single attributed DAG. 
+  info: In Proceedings of the 23rd International Joint Conference on Artificial Intelligence (IJCAI'13), Beijing, China, August 3-9, 2013.
+  stat: 413 papers accepted on 1473 (28%).
+  
+- authors: Claude Pasquier, Jérémy Sanhes, Frédéric Flouvat and Nazha Selmaoui-Folcher. 
+  title: Frequent Pattern Mining in Attributed trees. 
+  info: In Proceedings of the 17th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PaKDD'13), Gold Coast Australia. Springer-Verlag LNCS, Vol. 7818, Springer, pp.26-37, 2013.
+  stat: 60 papers accepted on 344 (17%).
+
+- authors: Hugo Alatrista-Salas, Jérome Azé, Sandra Bringay, Flavie Cernesson, Frédéric Flouvat, Nazha Selmaoui-Folcher and Maguelonne Teisseire. 
+  title: "Finding relevant sequences with the least temporal contradiction measure : application to hydrological data." 
+  info: In proceedings of the AGILE2012 International Conference on Geographic Information Science, Avignon, April 24-27, pp197-202, 2012.
+
+  
+- authors: Hugo Alatrista-Salas, Sandra Bringay, Frédéric Flouvat, Nazha Selmaoui-Folcher and Maguelonne Teisseire. 
+  title: "The Pattern Next Door: Towards Spatio-Sequential Pattern Discovery." 
+  info: In Proceedings of the 16th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PaKDD'12), Kuala Lumpur, Malaysia, 2012. 
+  stat: 88 papers accepted on 241 submissions (36%).
+  
+- authors: Elise Desmier, Frédéric Flouvat, Benoit Stoll and Nazha Selmaoui-Folcher. 
+  title: Coconut fields classification using data mining on a large dababase of high-resolution Ikonos images. 
+  info: In Proceedings of the International Conference on Digital Information Management (ICDIM'11), Melbourne, Australia, September 2011.
+  
+- authors: Elise Desmier, Frédéric Flouvat, Dominique Gay and Nazha Selmaoui-Folcher. 
+  title: A clustering-based visualization of colocation patterns. 
+  info: In Proceedings of the International Database Engineering and Applications Symposium (IDEAS'11), Lisbon, Portugal, September 2011. 
+  stat: 20 long papers accepted on 130 submissions (15%).
+  
+- authors: Nazha Selmaoui-Folcher and Frédéric Flouvat. 
+  title: How to use "classical" tree mining algorithms to find complex spatio-temporal patterns?. 
+  info: In Proceedings of the International Conference on Database and Expert Systems Applications (DEXA'11), Toulouse, France, August 2011.
+  
+- authors: Frédéric Flouvat, Nazha Selmaoui-Folcher, Dominique Gay, Isabelle Rouet and Chloé Grison. 
+  title: "Constrained colocation mining: application to soil erosion characterization."
+  info: In Proceedings of the ACM Symposium on Applied Computing (SAC'10), Data Mining Track, Sierre, Switzerland, pp.1055-1060, March 22-26, 2010. 
+  stat: 20 long papers accepted on 78 submissions (26%).
+  
+- authors: Sana Sellami, Aicha-Nabila Benharkat, Youssef Amghar, Frédéric Flouvat. 
+  title: Improving Real World Schema Matching with Decomposition Process. 
+  info: In Proceedings of the International Conference on Enterprise Information Systems (ICEIS), Vol 1, DISI, p. 151-158, Funchal, Madeira, Portugal, June 2010.
+  
+- authors: Frédéric Flouvat, Fabien De Marchi and Jean-Marc Petit. 
+  title: The open source library iZi for pattern mining problems.
+  info: In Proceedings of the Open Source in Data Mining (OSDM) workshop, in conjonction with PAKDD'09, p. 14-25, Bangkok, Thailand, April 2009.  
+  
+- authors: Frédéric Flouvat, Fabien De Marchi and Jean-Marc Petit. 
+  title: Rapid prototyping of pattern mining problems isomorphic to boolean lattices.
+  info: In Proceedings of the IEEE International Conference on Research Challenges in Information Science (RCIS), p. 1-11, Marrakech, Morocco, June 2008.   
+  stat: 41 long papers accepted on 108 submissions (38%).
+  
+- authors: Frédéric Flouvat, Fabien De Marchi and Jean-Marc Petit. 
+  title: "iZi: a new toolkit for pattern mining problems."
+  info: In Proceedings of the 17th International Symposium on Methodologies for Intelligent Systems (ISMIS), p. 131-136, Toronto, Canada, May 2008.  
+
+- authors: Frédéric Flouvat, Fabien De Marchi and Jean-Marc Petit. 
+  title: "Pattern mining problems isomorphic to boolean lattices: from problem statements to efficient implementations."
+  info: Third Franco-Japanese Workshop on Information Search, Integration and Personalization (ISIP'07), Hokkaido, Japan, June 2007. (invited paper)
+  
+- authors: Alice Villéger, Julien Montagner, Frédéric Flouvat, Jean-Yves Boire. 
+  title: A programming environment for the development of modular 3D biomedical image processing applications.
+  info: 20th European Conference on Object-Oriented Programming (ECOOP), Nantes, France, July 2006. (demonstration)
+  
+- authors: Frédéric Flouvat, Fabien De Marchi and Jean-Marc Petit. 
+  title: A thorough experimental study of datasets for frequent itemsets.
+  info: In Proceedings of the 5th IEEE International Conference on Data Mining (ICDM'05), p. 162-169, Houston, USA, November 2005.  
+  stat: 69 long papers accepted on 630 submissions (11%).
+  
+- authors: Frédéric Flouvat, Fabien De Marchi and Jean-Marc Petit. 
+  title: "ABS: Adaptive Borders Search of frequent itemsets."
+  info: In Proceedings of the 2nd Workshop on Frequent Itemsets Mining Implementation (FIMI'04), in conjonction with ICDM'04, p. 1-8, Brighton, UK, November 2004. CEUR Workshop Proceedings, Vol. 126.
+  
+- authors: Fabien De Marchi, Frédéric Flouvat and Jean-Marc Petit. 
+  title: An adaptative strategy for mining the positive border of sentences.
+  info: In Proceedings of the Workshop on inductive Databases and Constraint Based Mining, Hinterzaten, Germany, March 2004.
