@@ -1,0 +1,57 @@
+---
+title: Other activities
+permalink: /others/
+---
+
+<section>
+    <h4>
+        Phd Students Supervision
+    </h4>
+
+    <ul>
+        {% for phd in site.data.phd_students %}
+        <li>
+            {{ phd.name }} ({{ phd.date }}): <em><strong>"{{phd.title}}"</strong></em>.
+            Financed by: {{ phd.founder }}. Supervision: {{ phd.supervision }}
+        </li>
+        {% endfor %}
+    </ul>
+
+</section>
+
+
+<section>
+    <h4>Conference and Workshop Organization</h4>
+    <ul>
+        {% for member in site.data.conf_org %}
+        <li>
+            {{ member.title }}
+            {{ member.info }}
+        </li>
+        {% endfor %}
+    </ul>
+</section>
+
+<section>
+    <h4>Editorial Board Member</h4>
+    <ul>
+        {% for member in site.data.editor %}
+        <li>
+            {{ member.title }}						
+            <p>{{ member.editors }}</p>
+        </li>
+        {% endfor %}
+    </ul>
+</section>
+
+<section>
+    
+    <h4>Reviewer for</h4>
+    <ul>
+        <li> {{ site.data.reviewer.journal }}      
+        </li>
+        <li> {{ site.data.reviewer.conference }}      
+        </li>
+    </ul>
+
+</section>

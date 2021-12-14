@@ -7,7 +7,7 @@ main:
   - title: "Publications"
     url: /publications/
   - title: "Others"
-    url: / #/others/
+    url: /others/
   - title: "About me"
     url: / # about
   # - title: "About"
