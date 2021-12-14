@@ -3,13 +3,13 @@ main:
   - title: "Projects"
     url: /projects/
   - title: "Teaching"
-    url: / #/teaching
+    url: /teaching/
   - title: "Publications"
     url: /publications/
   - title: "Others"
     url: /others/
   - title: "About me"
-    url: / # about
+    url: /about/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"

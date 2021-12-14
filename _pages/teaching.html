@@ -1,0 +1,67 @@
+---
+title: Teaching Activities
+permalink: /teaching/
+---
+<section>
+    <h2>Teaching Responsabilites</h2>
+
+    <p>I was the <strong> head of the bachelor in computer science</strong> in 2013, 2014, 2019, 2020 and 2021. Here are some of the tasks I had to perform: program coordination, recruitment and management of teachers, planning of courses, management of internships and money management. As such, I was also a <strong>member of the Science Departement council</strong>.</p>
+</section>
+
+<section>
+    <h2>
+        Pedagogical Projects and Events Organization
+    </h2>
+    <u>
+        <li>Co-coordinator of the pedagogical project "Development of the FabLab spirit in the bachelor of computer science" in 2018.</li>
+        <li>Organizer of seminars with professionals on technologies, seminars on recruitments and graduate students meetup.</li>
+    </u>
+</section>
+
+<section>
+    <h2>Somes courses done at the University of New Caledonia</h2>
+
+     All my courses are available in the <a href="https://foad.unc.nc/">UNC Course Mangement System</a>.
+
+    <ul>
+        {% for course in site.data.courses %}
+        
+        {% if course.status == 'current'  %}
+        <li>
+            <strong>{{ course.title }}</strong> <br />
+            Keywords: {{ course.keywords }} <br />
+            {{ course.hours }} <br />
+            Diploma: {{ course.diploma }} <br />
+    
+            {% if course.files != null %}
+            Ressources: 
+                    {% for file in course.files %}
+                    [<a href="/assets/documents/{{ file.file_name }}">{{ file.file_name }}</a>]
+                    {% endfor %}
+            {% endif %}
+        </li>
+        {% endif %}
+        
+        {% endfor %}
+    </ul>	
+</section>
+
+
+<section>
+    <h2>
+        Student Supervision
+    </h2>
+
+    <p align="justify"> <strong> Bachelor and Master internships: </strong>
+        {% for student in site.data.internships %}
+            {{ student.name}} ({{ student.formation}}), 
+        {% endfor %}
+    </p>
+
+    <p align="justify"> <strong>Mentored projects (Univeristy of New Caledonia): </strong>
+        {% for student in site.data.mentored_projects %}
+            {{ student.name}}, 
+        {% endfor %}
+    </p>
+
+</section>
