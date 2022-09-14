@@ -1,13 +1,21 @@
+- name: "Dynamics of informal Settlements in the Pacific Islands ciTIes (SITI)"
+  date: "2023-2026"
+  funded: "French National Research Agency ANR."
+  partners: "Aix-Marseille University, Ecosophy company, University of New Caledonia, IRD, University of Lyon, and Insight SAS company."
+  img: "siti.png"
+  description: "The SITI project aims at developing knowledge and new agent-based simulation tools to analyze dynamics of "informal settlements" in the capital cities of the Pacific islands (Port-Vila, Suva and Noumea). By crossing different research protocols and methods usually distant from each other (written archives, observations, open interviews, semi-directive interviews, questionnaires, spatial data, econometrics and artificial intelligence), the aim is to have a full understanding of the urban dynamics that have produced and perpetuated informal settlements in the three Pacific cities. To achieve this, this project is based on an interdisciplinary approach involving history, urban planning, geography, economics, remote sensing and artificial intelligence."  
+  role: "Coordinator" 
+  status: current
+
 - name: "SOcio‐SPAtial Dynamics of Informal Settlements in Fiji, Vanuatu and Solomon Islands"
-  date: "2018-"
+  date: "2018-2022"
   funded: "French Ministry of foreign affairs, Caledonian government and Pacific Islands Universities Research Network (PIURN)."
   partners: "Ecosophy company, University of New Caledonia, IRD, University of South Pacific, National University of Vanuatu, Solomon Islands National University, and Massey university."
   img: "sospadis.jpg"
   description: "Faced with growing urbanization, informal settlements are an integral part of the urban landscape in the Pacific island states.
   Improving living conditions of populations has become a major issue. For this, stakeholders need indicators and tools to better understand and plan evolutions of these communities w.r.t. their environment.
   The objective of this multidisciplinary project is to analyze and modelize the  dynamics of informal settlements based on GIS data, satellite images, drone data and household surveys.
-  Agent-based modeling will be used to simulate informal setllements dynamics. Then,  data mining techniques will be used to analyzed simulation results, and improve the model.     
-  To construct its generic model, this projet more particularly study six informal settlements in Vanuatu, Solomon Islands and Fiji."  
+  Agent-based modeling will be used to simulate informal setllements dynamics. To construct its generic model, this projet more particularly study six informal settlements in Vanuatu, Solomon Islands and Fiji."  
   role: "Coordinator of two PIURN projects" 
   status: current
 
@@ -23,12 +31,12 @@
   status: current
 
 - name: "Impacts of the mine on evolution of territories"
-  date: "2019-"
+  date: "2019-2022"
   funded: "National Centre for Technological Research (CNRT) - Nickel and its Environment."
   partners: "University of New Caledonia (coordinator), IRD, University of Lyon 2 and WIGS company."
   img: "impactMine.jpg"
   description: "The objective of this project is to analyze the impact over time of mining activity on the economy, living conditions, taxation and employment, while integrating the evolution of landscapes (using satellite images)." 
-  status: current
+  status: past
 
 - name: "Multivariate Time Series Analysis for a better management of renewable energy production"
   date: "2018-2019"
