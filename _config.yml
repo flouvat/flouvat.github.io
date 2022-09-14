@@ -25,7 +25,7 @@ url                      : "https://flouvat.github.io" # the base hostname & pro
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "flouvat/flouvat.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/LogoISEA.JPG" # Logo_Universite_de_la_Nouvelle-Caledonie.jpg" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "/assets/images/Univ_Aix-Marseille_-_IUT-LIS.svg" # Univ_Aix-Marseille_-_IUT-LIS.jpg" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : " " # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 200
@@ -105,12 +105,12 @@ author:
   name             : "Frédéric Flouvat"
   avatar           : "/assets/images/Flouvat-2-400x400.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Associate professor in computer science and data scientist, Ph.D., Habilitation thesis (HDR)" # , Institute of Exact and Applied Sciences (ISEA Lab)"
-  location         : "University of New Caledonia, <br />
-                      BPR4 - 98851 Noumea Cedex,<br />
-                      New Caledonia"
+  location         : "IUT Aix-Marseille, <br />
+                      413 avenue Gaston Berger, 13625 Aix-en-Provence cedex 1 <br />
+                      France"
 
-  email            : "frederic.flouvat@unc.nc"
-  phone            : "(+687) 290 315"
+  email            : "frederic.flouvat@univ-amu.fr"
+  phone            : ""
   links:
     - label: "ORCID"
       icon: "fab fa-orcid"
