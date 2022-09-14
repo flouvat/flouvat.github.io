@@ -19,7 +19,9 @@ Title : "Towards adaptive and generic solutions for interesting pattern mining i
 
 ## Professional experience
 
-- 2018- : **Associate Professor** in Computer Science. University of New Caledonia, Noumea, New Caledonia. Member of the Institute of Exact and Applied Sciences (ISEA).
+- 2022-now : **Associate Professor** in Computer Science. IUT Aix-Marseille University, Aix-en-Provence, France. Member of the Computer Science and Systems Laboratory (LIS – UMR 7020).
+
+- 2018-2022 : **Associate Professor** in Computer Science. University of New Caledonia, Noumea, New Caledonia. Member of the Institute of Exact and Applied Sciences (ISEA).
   
 - 2007-2008: **Lecturer and research assistant**. University of Lyon 1, Lyon, France.
 
