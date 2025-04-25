@@ -104,7 +104,7 @@ analytics:
 author:
   name             : "Frédéric Flouvat"
   avatar           : "/assets/images/Flouvat-2-400x400.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Associate professor in computer science and data scientist, Ph.D., Habilitation thesis (HDR)" # , Institute of Exact and Applied Sciences (ISEA Lab)"
+  bio              : "Full Professor in computer science and data scientist, Ph.D." # , Institute of Exact and Applied Sciences (ISEA Lab)"
   location         : "IUT Aix-Marseille, <br />
                       413 avenue Gaston Berger,  <br />
                       13625 Aix-en-Provence cedex 1 <br />
