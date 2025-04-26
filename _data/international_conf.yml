@@ -1,3 +1,8 @@
+- authors: Idir Saïdi, Nicolas Durand and Frédéric Flouvat. 
+  title: Analysis of Students' Attempts Trajectories in Learning Programming. 
+  info: In Proceedings of the 18th International Conference on Educational Data Mining (EDM), International Educational Data Mining Society, Palermo, Italy, 2025.
+  stat : acceptance rate 27.6%.
+
 - authors: Etienne Tack, Gilles Enée, and Frédéric Flouvat.
   title: Combining Procedural Generation and Genetic Algorithms to Model Urban Growth. 
   info:  In Proceedings of the 17th International Conference on Agents and Artificial Intelligence (ICAART), Porto, Portugal, 2025.
@@ -5,6 +10,7 @@
 - authors: Thibaut Martinet, Guillaume Cleuziou, Matthieu Exbrayat, Frédéric Flouvat.
   title: From Document to Program Embeddings - Can Distributional Hypothesis Really Be Used on Programming Languages?
   info: In Proceedings of the 27th European Conference on Artificial Intelligence (ECAI), Spain, 2024.
+  stat : 547 papers accepted on 2,344 submissions (23%).
 
 - authors: Etienne Tack, Gilles Enée, Thomas Gaillard, Jean-Marie Fotsing and Frédéric Flouvat.
   title: Towards user-centred validation and calibration of agent-based models.
@@ -12,7 +18,7 @@
 
 - authors: Guillaume Cleuziou and Frédéric Flouvat. 
   title: Learning student program embeddings using abstract execution traces. 
-  info: In Proceedings of the 14th International Conference on Educational Data Mining (EDM 2021), International Educational Data Mining Society, Paris, 2021.
+  info: In Proceedings of the 14th International Conference on Educational Data Mining (EDM), International Educational Data Mining Society, Paris, 2021.
 
 - authors: Jannaï Tokotoko, Frédéric Flouvat, Claire Goiran, Laetitia Hédouin, Antoine Collin, and Nazha Selmaoui-Folcher. 
   title: Supervised classification of satellite images with spatially inaccurate training field data. 
@@ -21,7 +27,7 @@
 - authors: Zhi Cheng, Frédéric Flouvat and Nazha Selmaoui-Folcher. 
   title: Mining reccurrent patterns in a dynamic attributed graph. 
   info: In Proceedings of the 21st Pacific-Asia Conference on Knowledge Discovery and Data Mining (PaKDD'17), Jeju, South Korea, 2017.
-  stat: 129 papers accepted on 458 (28%).
+  stat: 129 papers accepted on 458 submissions (28%).
 
 - authors: Maxime Collin, Frédéric Flouvat and Nazha Selmaoui-Folcher. 
   title: PaTSI - Pattern mining of time series of satellite images in KNIME. 
@@ -30,17 +36,17 @@
 - authors: Frédéric Flouvat, Jérémy Sanhes, Claude Pasquier, Nazha Selmaoui-Folcher and Jean-François Boulicaut. 
   title: Improving pattern discovery relevancy by deriving constraints from expert models. 
   info: In Proceedings of the 21st European Conference on Artificial Intelligence (ECAI'14), Prague, Czech Republic, August 18-22, 2014.
-  stat: 158 papers accepted on 562 (28%).
+  stat: 158 papers accepted on 562 submissions (28%).
   
 - authors: Jérémy Sanhes, Frédéric Flouvat, Claude Pasquier, Nazha Selmaoui-Folcher and Jean-François Boulicaut. 
   title: Weighted paths as a condensed pattern in a single attributed DAG. 
   info: In Proceedings of the 23rd International Joint Conference on Artificial Intelligence (IJCAI'13), Beijing, China, August 3-9, 2013.
-  stat: 413 papers accepted on 1473 (28%).
+  stat: 413 papers accepted on 1473 submissions (28%).
   
 - authors: Claude Pasquier, Jérémy Sanhes, Frédéric Flouvat and Nazha Selmaoui-Folcher. 
   title: Frequent Pattern Mining in Attributed trees. 
   info: In Proceedings of the 17th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PaKDD'13), Gold Coast Australia. Springer-Verlag LNCS, Vol. 7818, Springer, pp.26-37, 2013.
-  stat: 60 papers accepted on 344 (17%).
+  stat: 60 papers accepted on 344 submissions (17%).
 
 - authors: Hugo Alatrista-Salas, Jérome Azé, Sandra Bringay, Flavie Cernesson, Frédéric Flouvat, Nazha Selmaoui-Folcher and Maguelonne Teisseire. 
   title: "Finding relevant sequences with the least temporal contradiction measure : application to hydrological data." 
