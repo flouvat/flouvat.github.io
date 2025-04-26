@@ -1,3 +1,15 @@
+- authors: Etienne Tack, Gilles Enée, and Frédéric Flouvat.
+  title: Combining Procedural Generation and Genetic Algorithms to Model Urban Growth. 
+  info:  In Proceedings of the 17th International Conference on Agents and Artificial Intelligence (ICAART), 2025.
+
+- authors: Thibaut Martinet, Guillaume Cleuziou, Matthieu Exbrayat, Frédéric Flouvat.
+  title: From Document to Program Embeddings: Can Distributional Hypothesis Really Be Used on Programming Languages?
+  info: In Proceedings of the 27th European Conference on Artificial Intelligence (ECAI), Spain, 2024.
+
+- authors: Etienne Tack, Gilles Enée, Thomas Gaillard, Jean-Marie Fotsing and Frédéric Flouvat.
+  title: Towards user-centred validation and calibration of agent-based models.
+  info: In Proceedings of 15th International Conference on Agents and Artificial Intelligence (ICAART), position papers, Lisbon, Portugal, 2023.
+
 - authors: Guillaume Cleuziou and Frédéric Flouvat. 
   title: Learning student program embeddings using abstract execution traces. 
   info: In Proceedings of the 14th International Conference on Educational Data Mining (EDM 2021), International Educational Data Mining Society, Paris, 2021.
